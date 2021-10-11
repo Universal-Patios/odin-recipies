@@ -1,1 +1,1 @@
-# odin-recipies
+This project is a recipies website to show off what I have learned in HTML. It will showcase my knowledge of header and paragraph elements, listing elements in ordered and unordered lists, and use of bold and itallics. It will also show examples of relative and absolute links. As well as images.
